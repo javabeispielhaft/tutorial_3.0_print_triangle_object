@@ -6,6 +6,5 @@ public class Main {
 
         triangle0.print();
         triangle0.print();
-
     }
 }
